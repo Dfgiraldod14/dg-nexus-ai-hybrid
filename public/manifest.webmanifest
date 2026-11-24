@@ -1,0 +1,9 @@
+{
+  "name": "DG Nexus AI (Hybrid Edition)",
+  "short_name": "DG Nexus AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": []
+}
